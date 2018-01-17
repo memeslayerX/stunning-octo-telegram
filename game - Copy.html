@@ -1,0 +1,23 @@
+<html>
+<head>
+<script type="text/javascript" src="swfobject.js"></script>
+</head>
+<div id="col2" style="width:600px; height:600px;"></div>
+<div id="main" style="width:600px; height:600px;"></div>
+
+<body>
+<script type="text/javascript" defer="defer">
+
+var so = new SWFObject("inspectorOoh.swf", "main", "615", "382", "8", "#FFFFFF");
+so.addVariable("siteRoot", "/");	
+so.addVariable("baseUrl", "/");	
+so.addVariable("videoNo", "");
+so.addVariable("loc", "");
+so.addVariable("returnHome", "");
+so.addVariable("skipIntro", "");
+so.addVariable("MEDIAROOT", "");
+so.write("col2");
+
+</script>
+</body>
+</html>

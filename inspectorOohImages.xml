@@ -1,0 +1,108 @@
+<images>
+	<imageset id="image0">
+		<variation>
+            <hiddenobject id="airplane" nameaudiooohsrc="IO_067.wav" nameaudioaahsrc="IO_175.wav"/>
+			<hiddenobject id="star" nameaudiooohsrc="IO_070.wav" nameaudioaahsrc="IO_178.wav"/>
+             <hiddenobject id="topHat" nameaudiooohsrc="IO_075.wav" nameaudioaahsrc="IO_183.wav"/>	
+		</variation>
+		<variation>
+            <hiddenobject id="umbrella" nameaudiooohsrc="IO_065.wav" nameaudioaahsrc="IO_173.wav"/>
+            <hiddenobject id="comb" nameaudiooohsrc="IO_050.wav" nameaudioaahsrc="IO_158.wav"/>
+            <hiddenobject id="butterfly" nameaudiooohsrc="IO_082.wav" nameaudioaahsrc="IO_190.wav"/>
+			
+		</variation>
+		<variation>
+            <hiddenobject id="wheel" nameaudiooohsrc="IO_098.wav" nameaudioaahsrc="IO_206.wav"/>
+            <hiddenobject id="bowlingBall" nameaudiooohsrc="IO_077.wav" nameaudioaahsrc="IO_185.wav"/>
+            <hiddenobject id="pairOfPants" nameaudiooohsrc="IO_095.wav" nameaudioaahsrc="IO_203.wav"/>	
+		</variation>
+	</imageset>
+	<imageset id="image1">
+		<variation>
+            <hiddenobject id="piggyBank" nameaudiooohsrc="IO_055.wav" nameaudioaahsrc="IO_163.wav"/>
+			<hiddenobject id="scarf" nameaudiooohsrc="IO_076.wav" nameaudioaahsrc="IO_184.wav"/>
+            <hiddenobject id="ladder" nameaudiooohsrc="IO_116.wav" nameaudioaahsrc="IO_224.wav"/>
+		</variation>
+		<variation>
+			<hiddenobject id="clock" nameaudiooohsrc="IO_063.wav" nameaudioaahsrc="IO_171.wav"/>
+            <hiddenobject id="fishingPole" nameaudiooohsrc="IO_061.wav" nameaudioaahsrc="IO_169.wav"/>
+            <hiddenobject id="bottle" nameaudiooohsrc="IO_105.wav" nameaudioaahsrc="IO_213.wav"/>	
+		</variation>
+		<variation>
+            <hiddenobject id="boomerang" nameaudiooohsrc="IO_154.wav" nameaudioaahsrc="IO_262.wav"/>
+            <hiddenobject id="bird" nameaudiooohsrc="IO_083.wav" nameaudioaahsrc="IO_191.wav"/>
+            <hiddenobject id="wagon" nameaudiooohsrc="IO_142.wav" nameaudioaahsrc="IO_250.wav"/>
+		</variation>
+	</imageset>
+
+	<imageset id="image2">
+		<variation>
+            <hiddenobject id="basket" nameaudiooohsrc="IO_103.wav" nameaudioaahsrc="IO_211.wav"/>
+			<hiddenobject id="rubberDuckie" nameaudiooohsrc="IO_131.wav" nameaudioaahsrc="IO_239.wav"/>
+            <hiddenobject id="broom" nameaudiooohsrc="IO_087.wav" nameaudioaahsrc="IO_195.wav"/>	
+		</variation>
+		<variation>
+            <hiddenobject id="trike" nameaudiooohsrc="IO_069.wav" nameaudioaahsrc="IO_177.wav"/>
+            <hiddenobject id="heart" nameaudiooohsrc="IO_113.wav" nameaudioaahsrc="IO_221.wav"/>
+            <hiddenobject id="seashell" nameaudiooohsrc="IO_085.wav" nameaudioaahsrc="IO_193.wav"/>		
+		</variation>
+		<variation>
+            <hiddenobject id="snowShoe" nameaudiooohsrc="IO_062.wav" nameaudioaahsrc="IO_170.wav"/>
+            <hiddenobject id="hockeyStick" nameaudiooohsrc="IO_058.wav" nameaudioaahsrc="IO_166.wav"/>
+            <hiddenobject id="rope" nameaudiooohsrc="IO_130.wav" nameaudioaahsrc="IO_238.wav"/>	
+		</variation>
+	</imageset>
+	<imageset id="image4">
+		<variation>
+            <hiddenobject id="microscope" nameaudiooohsrc="IO_121.wav" nameaudioaahsrc="IO_229.wav"/>
+            <hiddenobject id="iceCreamCone" nameaudiooohsrc="IO_146.wav" nameaudioaahsrc="IO_254.wav"/>
+            <hiddenobject id="lemon" nameaudiooohsrc="IO_117.wav" nameaudioaahsrc="IO_225.wav"/>	
+		</variation>
+		<variation>
+            <hiddenobject id="earphones" nameaudiooohsrc="IO_125.wav" nameaudioaahsrc="IO_233.wav"/>
+	        <hiddenobject id="flower" nameaudiooohsrc="IO_094.wav" nameaudioaahsrc="IO_202.wav"/>
+            <hiddenobject id="moon" nameaudiooohsrc="IO_071.wav" nameaudioaahsrc="IO_179.wav"/>			
+		</variation>
+		<variation>
+            <hiddenobject id="birthdayCake" nameaudiooohsrc="IO_104.wav" nameaudioaahsrc="IO_212.wav"/>
+            <hiddenobject id="peanut" nameaudiooohsrc="IO_081.wav" nameaudioaahsrc="IO_189.wav"/>
+            <hiddenobject id="flashlight" nameaudiooohsrc="IO_108.wav" nameaudioaahsrc="IO_216.wav"/>
+		</variation>
+	</imageset>
+	<imageset id="image6">
+		<variation>
+			<hiddenobject id="book" nameaudiooohsrc="IO_072.wav" nameaudioaahsrc="IO_180.wav"/>
+            <hiddenobject id="alarmClock" nameaudiooohsrc="IO_144.wav" nameaudioaahsrc="IO_252.wav"/>
+			<hiddenobject id="barOfSoap" nameaudiooohsrc="IO_079.wav" nameaudioaahsrc="IO_187.wav"/>
+		</variation>
+		<variation>
+            <hiddenobject id="globe" nameaudiooohsrc="IO_151.wav" nameaudioaahsrc="IO_259.wav"/>
+            <hiddenobject id="glassOfMilk" nameaudiooohsrc="IO_090.wav" nameaudioaahsrc="IO_198.wav"/>
+            <hiddenobject id="rocket" nameaudiooohsrc="IO_139.wav" nameaudioaahsrc="IO_247.wav"/>	
+		</variation>
+		<variation>
+            <hiddenobject id="toyTruck" nameaudiooohsrc="IO_059.wav" nameaudioaahsrc="IO_167.wav"/>
+            <hiddenobject id="trumpet" nameaudiooohsrc="IO_140.wav" nameaudioaahsrc="IO_248.wav"/>
+            <hiddenobject id="telescope" nameaudiooohsrc="IO_135.wav" nameaudioaahsrc="IO_243.wav"/>
+		</variation>
+	</imageset>
+	<imageset id="image7">
+		<variation>
+            <hiddenobject id="tennisRacket" nameaudiooohsrc="IO_056.wav" nameaudioaahsrc="IO_164.wav"/>
+            <hiddenobject id="camera" nameaudiooohsrc="IO_106.wav" nameaudioaahsrc="IO_214.wav"/>
+            <hiddenobject id="egg" nameaudiooohsrc="IO_145.wav" nameaudioaahsrc="IO_253.wav"/>	
+		</variation>
+		<variation>
+			
+			<hiddenobject id="hammer" nameaudiooohsrc="IO_111.wav" nameaudioaahsrc="IO_219.wav"/>
+            <hiddenobject id="teapot" nameaudiooohsrc="IO_134.wav" nameaudioaahsrc="IO_242.wav"/>
+            <hiddenobject id="horseshoe" nameaudiooohsrc="IO_073.wav" nameaudioaahsrc="IO_181.wav"/>
+		</variation>
+		<variation>
+            <hiddenobject id="telephone" nameaudiooohsrc="IO_074.wav" nameaudioaahsrc="IO_182.wav"/>
+			<hiddenobject id="shovel" nameaudiooohsrc="IO_088.wav" nameaudioaahsrc="IO_196.wav"/>
+			<hiddenobject id="lollipop" nameaudiooohsrc="IO_120.wav" nameaudioaahsrc="IO_228.wav"/>
+
+		</variation>
+	</imageset>
+</images>
